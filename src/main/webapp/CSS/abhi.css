@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+body{
+	font-family: 'Roboto', sans-serif;
+	font-weight:400;
+	font-size:20px;
+}
+
+.tb{
+border:2px solid blue;
+margin:auto;
+margin-top:30px;
+border-radius:7px;
+background-color:#d4c3e0;
+}
+.tbi{
+font-size: 18px;
+border-radius: 5px;
+ width: 300px;
+  height: 33px	
+}
+.td{
+	padding:15px;
+}
+.la{
+	font-size:24px;
+}
+.bt{
+padding: 5px 15px; 
+color: white; 
+background-color: blue; 
+font-size: 19px; 
+cursor: hand; 
+border: none
+}
